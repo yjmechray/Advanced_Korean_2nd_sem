@@ -7,7 +7,7 @@
           { "term": "신분증 / 계좌 번호", "meaning": "ID card / Account number", "type": "Vocabulary", "desc": "Required information for banking transactions." },
           { "term": "입금하다 / 출금하다", "meaning": "To deposit / To withdraw", "type": "Vocabulary", "desc": "Antonyms used in banking." },
           { "term": "송금하다 / 환전하다", "meaning": "To transfer / To exchange money", "type": "Vocabulary", "desc": "Sending money or changing currency." },
-          { "term": "-(으)ㄴ 지", "meaning": "Elapsed time since an action", "type": "Grammar", "desc": "Verb stem + -(으)ㄴ 지 + Time + 되다. (e.g., 한국에 온 지 1년이 됐어요)." }
+          { "term": "-(으)ㄴ 지", "meaning": "Elapsed time since an action", "type": "Grammar", "desc": "Verb stem + -(으)ㄴ 지 + Time + 되다/지나다. (e.g., 한국에 온 지 1년이 됐어요)." }
         ],
         "quiz": [
           {
@@ -167,6 +167,7 @@
         "flashcards": [
           { "term": "학교를 졸업하다", "meaning": "To graduate from school", "type": "Vocabulary", "desc": "Sequential milestone." },
           { "term": "수저를 들다", "meaning": "To pick up spoon and chopsticks", "type": "Vocabulary", "desc": "Dining etiquette phrase." },
+          { "term": "식사를 시작하다 / 복습을 하다", "meaning": "To start a meal / To review lessons", "type": "Vocabulary", "desc": "Common daily routine verbs." },
           { "term": "ㄹ-Irregular + -(으)ㄴ 후에", "meaning": "ㄹ drops before ㄴ", "type": "Irregular Rule", "desc": "만들다 → 만든 후에 / 들다 → 든 후에" }
         ],
         "quiz": [
@@ -199,12 +200,74 @@
         ]
       }
     },
-    "Week 5": {
-      "Lesson 2": {
+    "Week 3": {
+      "Lesson 1 & 2": {
         "flashcards": [
+          { "term": "속상하다 / 부끄럽다", "meaning": "Upset (distressed) / Shy (ashamed)", "type": "Vocabulary", "desc": "Emotion adjectives." },
+          { "term": "우울하다 / 부럽다", "meaning": "Depressed (melancholy) / Envious", "type": "Vocabulary", "desc": "Emotion adjectives." },
+          { "term": "-(으)ㄹ 줄 알다 / 모르다", "meaning": "Knowing / Not knowing how to do", "type": "Grammar", "desc": "Expresses the presence or absence of an ability or technical skill." },
+          { "term": "-아/어/해하다", "meaning": "3rd-person emotion marker", "type": "Grammar", "desc": "Transforms a 1st-person emotion adjective into a 3rd-person observable action verb. MUST pair with object particle -을/를." }
+        ],
+        "quiz": [
+          {
+            "qK": "다음 중 문법적으로 올바른 문장을 고르세요.",
+            "qE": "Select the grammatically correct sentence.",
+            "o": [
+              "나는 3D 프린터를 사용할 줄 알아요. (Correct ability usage)",
+              "동생은 강아지가 무서워해요. (Incorrect particle usage)",
+              "흐엉 씨는 취직한 친구를 부러워해. (Correct 3rd person emotion)",
+              "나는 강아지를 무서워해요. (Incorrect 1st person format)"
+            ],
+            "a": 0,
+            "eK": "'사용하다'에 '-(으)ㄹ 줄 알다'가 결합된 형태입니다. (사용할 줄 알아요). 3인칭 감정 표현에는 '-을/를' 목적격 조사가 필요합니다.",
+            "eE": "Option 1 correctly expresses ability. Option 2 uses '가' instead of '를'. Option 4 incorrectly applies the 3rd person '-해하다' marker to a 1st person subject."
+          }
+        ]
+      }
+    },
+    "Week 4": {
+      "Lesson 1 & 2": {
+        "flashcards": [
+          { "term": "-거든요 / -(이)거든요", "meaning": "Providing background reasons", "type": "Grammar", "desc": "Giving a reason the listener likely doesn't know ('Because...'). Attaches directly to the stem." },
+          { "term": "악기를 치다", "meaning": "To play an instrument (percussion/keyboard)", "type": "Vocabulary", "desc": "Collocation used for playing the piano or guitar." }
+        ],
+        "quiz": [
+          {
+            "qK": "다음 ( )에 들어갈 어휘는 무엇이에요? 올바른 것을 고르세요.\n* 저는 피아노를 (     ) 알아요.",
+            "qE": "Choose the correct word for the blank.\n* I know how to (     ) the piano.",
+            "o": [
+              "켤 줄 (Play - strings)",
+              "칠 줄 (Play - keys/percussion)",
+              "불 줄 (Play - wind)",
+              "할 줄 (Do)"
+            ],
+            "a": 1,
+            "eK": "피아노나 건반 악기를 연주할 때는 동사 '치다'를 사용합니다. '치다'에 '-ㄹ 줄 알다'가 결합하여 '칠 줄 알아요'가 됩니다.",
+            "eE": "In Korean, playing keyboard or percussion instruments like the piano uses the verb '치다' (피아노를 치다). Combining this with '-ㄹ 줄 알다' forms '칠 줄 알아요'."
+          },
+          {
+            "qK": "다음 대화를 완성하세요.\n가: 오늘 실습에 왜 안 와요?\n나: 오후에 면접이 (     ).",
+            "qE": "Complete the dialogue.\nA: Why aren't you coming to the lab today?\nB: I have an interview this afternoon, (because...).",
+            "o": [
+              "있거든요 (Because I have)",
+              "있는 지 (Since I have)",
+              "있기 전에 (Before I have)",
+              "있은 후에 (After I have)"
+            ],
+            "a": 0,
+            "eK": "이유를 설명하며 대답할 때는 '-거든요'를 사용합니다.",
+            "eE": "When explaining an underlying reason or background information to decline a request or answer a 'why' question, you use '-거든요'."
+          }
+        ]
+      }
+    },
+    "Week 5": {
+      "Lesson 1 & 2": {
+        "flashcards": [
+          { "term": "단발머리 / 파마머리", "meaning": "Bobbed hair / Permed hair", "type": "Vocabulary", "desc": "Hair salon vocabulary." },
+          { "term": "염색하다 / 자르다", "meaning": "To dye hair / To cut hair", "type": "Vocabulary", "desc": "Hair salon verbs." },
           { "term": "-(으)면서", "meaning": "Simultaneous Actions (While doing)", "type": "Grammar", "desc": "Both actions MUST be performed by the SAME subject." },
-          { "term": "-(으)면서 (Adjective Rule)", "meaning": "Adjectives cannot be used directly", "type": "Grammar", "desc": "Incorrect: 슬프면서 울어요. Correct: 슬퍼하면서 울어요." },
-          { "term": "-았/었/했으면 좋겠다", "meaning": "Expressing Hopes/Wishes", "type": "Grammar", "desc": "Attaches to the past tense stem even for future desires. (e.g., 쉬웠으면 좋겠다)." }
+          { "term": "-(으)면서 (Adjective Rule)", "meaning": "Adjectives cannot be used directly", "type": "Grammar", "desc": "Incorrect: 슬프면서 울어요. Correct: 슬퍼하면서 울어요." }
         ],
         "quiz": [
           {
@@ -232,7 +295,18 @@
             "a": 3,
             "eK": "'-면서'는 동사에만 직접 붙을 수 있습니다. '슬프다'는 형용사이므로 '슬퍼하면서'로 바꾸어야 합니다.",
             "eE": "Option 4 is wrong because '-(으)면서' cannot attach directly to an adjective like '슬프다'. It must be transformed into an action verb ('슬퍼하면서')."
-          },
+          }
+        ]
+      }
+    },
+    "Week 6": {
+      "Lesson 1 & 2": {
+        "flashcards": [
+          { "term": "-았/었/했으면 좋겠다", "meaning": "Expressing Hopes/Wishes", "type": "Grammar", "desc": "Attaches to the past tense stem even for future desires. (e.g., 쉬웠으면 좋겠다)." },
+          { "term": "ㅅ-Irregular + -았/었-", "meaning": "ㅅ drops but leaves space", "type": "Irregular Rule", "desc": "낫다 (to recover) → 나았으면 좋겠다." },
+          { "term": "ㅂ-Irregular + -았/었-", "meaning": "ㅂ changes to 오/우", "type": "Irregular Rule", "desc": "쉽다 (to be easy) → 쉬웠으면 좋겠다." }
+        ],
+        "quiz": [
           {
             "qK": "다음 문장의 ( )에 들어갈 올바른 단어를 고르세요.\n* 한국에 온 지 한 달 됐어요. 빨리 한국 친구가 (     ) 좋겠어요.",
             "qE": "Choose the correct word for the blank.\n* I've been in Korea for a month. I hope I (     ) Korean friends quickly.",
