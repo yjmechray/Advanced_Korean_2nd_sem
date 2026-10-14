@@ -1,0 +1,342 @@
+{
+  "Advanced Korean 2": {
+    "Week 1": {
+      "Lesson 1": {
+        "flashcards": [
+          { "term": "통장 / 도장", "meaning": "Bankbook / Stamp (Seal)", "type": "Vocabulary", "desc": "Essential items for opening a bank account in Korea." },
+          { "term": "신분증 / 계좌 번호", "meaning": "ID card / Account number", "type": "Vocabulary", "desc": "Required information for banking transactions." },
+          { "term": "입금하다 / 출금하다", "meaning": "To deposit / To withdraw", "type": "Vocabulary", "desc": "Antonyms used in banking." },
+          { "term": "송금하다 / 환전하다", "meaning": "To transfer / To exchange money", "type": "Vocabulary", "desc": "Sending money or changing currency." },
+          { "term": "-(으)ㄴ 지", "meaning": "Elapsed time since an action", "type": "Grammar", "desc": "Verb stem + -(으)ㄴ 지 + Time + 되다. (e.g., 한국에 온 지 1년이 됐어요)." }
+        ],
+        "quiz": [
+          {
+            "qK": "다음 어휘를 (보기)와 같이 바르게 바꾼 것을 고르세요.\n(보기) 한국어를 배우다 → 한국어를 배운 지 6개월 됐어요.",
+            "qE": "Choose the correctly converted vocabulary like the example.\n(Example) To learn Korean → It has been 6 months since I learned Korean.",
+            "o": [
+              "밥을 먹다 → 밥을 먹은 지 1시간이 됐어요. (Correct conversion)",
+              "한국에서 일하다 → 한국에서 일하은 지 3개월 됐어요. (Incorrect: 일한 지)",
+              "여자 친구와 사귀다 → 여자 친구와 사귀은 지 1년 됐어요. (Incorrect: 사귄 지)",
+              "버스를 기다리다 → 버스를 기달린 지 30분 됐어요. (Incorrect: 기다린 지)"
+            ],
+            "a": 0,
+            "eK": "동사 어간에 받침이 있으면 '-은 지', 없으면 '-ㄴ 지'를 씁니다. '먹다'는 받침이 있으므로 '먹은 지'가 맞습니다.",
+            "eE": "If the verb stem has a consonant, attach '-은 지'. '먹다' has a consonant, making '먹은 지' correct. The others have grammatical errors."
+          },
+          {
+            "qK": "다음 ( )에 들어갈 어휘는 무엇이에요? 올바른 것을 고르세요.\n* 저는 한국에 (     ) 1년이 됐어요.",
+            "qE": "What is the correct word for the blank?\n* It has been 1 year (     ) I came to Korea.",
+            "o": [
+              "올 때 (When I come)",
+              "왔지만 (I came, but)",
+              "온 지 (Since I came)",
+              "왔기 때문에 (Because I came)"
+            ],
+            "a": 2,
+            "eK": "시간의 경과를 나타내는 표현은 '-(으)ㄴ 지 [시간] 되다'입니다.",
+            "eE": "To express how much time has passed since an event, you must use '-(으)ㄴ 지'. '오다' has no final consonant, becoming '온 지'."
+          }
+        ]
+      },
+      "Lesson 2": {
+        "flashcards": [
+          { "term": "-기 전에", "meaning": "Before doing (Action)", "type": "Grammar", "desc": "Attaches to the BASE verb stem ONLY. Past tense markers are not allowed. (e.g., 가기 전에)" },
+          { "term": "Noun + 전에", "meaning": "Before (Noun/Event)", "type": "Grammar", "desc": "Attaches directly to a noun. (e.g., 수업 전에 = Before class)" },
+          { "term": "-(으)ㄴ 후에 / 다음에", "meaning": "After doing (Action)", "type": "Grammar", "desc": "Requires the past modifier -(으)ㄴ. (e.g., 먹은 후에 = After eating)" },
+          { "term": "ㄷ-Irregular + -(으)ㄴ 후에", "meaning": "ㄷ changes to ㄹ", "type": "Irregular Rule", "desc": "듣다 (to listen) → 들은 후에 / 걷다 (to walk) → 걸은 후에" }
+        ],
+        "quiz": [
+          {
+            "qK": "알맞은 말을 골라 다음 문장을 완성하세요.\n* 시험을 (     ) 공부하세요.",
+            "qE": "Choose the correct phrase to complete the sentence.\n* Please study (     ) taking the test.",
+            "o": [
+              "볼 때 (When taking)",
+              "보는 동안 (While taking)",
+              "보기 전에 (Before taking)",
+              "본 지 (Since taking)"
+            ],
+            "a": 2,
+            "eK": "'시험을 보기 전에 공부하세요' (시험을 치기 전에 공부를 하라는 의미)가 가장 자연스럽습니다.",
+            "eE": "The sentence logically means 'Please study before taking the exam.' Verb base + -기 전에 translates to 'before doing'."
+          },
+          {
+            "qK": "잘못된 문장을 고르세요.",
+            "qE": "Choose the incorrect sentence.",
+            "o": [
+              "수업 전에 도서관에 갔어요. (Went to the library before class.)",
+              "영화를 본 전에 친구를 만났어요. (Incorrect grammar marker)",
+              "점심을 먹기 전에 주스를 마셨어요. (Drank juice before eating lunch.)",
+              "회의 전에 메모를 했어요. (Took notes before the meeting.)"
+            ],
+            "a": 1,
+            "eK": "'-전에' 앞에는 동사의 기본형에 '-기'를 붙여야 합니다. '본 전에'가 아니라 '보기 전에'가 맞습니다.",
+            "eE": "Option 2 is wrong because '-기 전에' MUST attach to the base verb stem. It should be '보기 전에', never '본 전에'."
+          },
+          {
+            "qK": "다음 문장을 바르게 연결한 것을 고르세요.\n* 운동을 하다 → 샤워를 하다",
+            "qE": "Choose the correctly connected sentence.\n* Work out → Take a shower",
+            "o": [
+              "운동하기 전에 샤워를 했어요. (Showered before working out)",
+              "운동하는 동안 샤워를 했어요. (Showered while working out)",
+              "운동하는 후에 샤워를 했어요. (Incorrect modifier format)",
+              "운동 후에 샤워를 했어요. (Showered after working out)"
+            ],
+            "a": 3,
+            "eK": "'운동을 한 후에 샤워를 했어요' 또는 명사를 사용하여 '운동 후에 샤워를 했어요'가 맞습니다.",
+            "eE": "The sequence is Work out THEN shower. Option 4 correctly uses the Noun + -후에 format ('운동 후에'). Option 3 is grammatically incorrect."
+          },
+          {
+            "qK": "올바른 문장을 고르세요.",
+            "qE": "Choose the correct sentence.",
+            "o": [
+              "수업을 들은 다음에 복습을 했어요. (Reviewed after taking class)",
+              "수업을 듣기 후에 복습을 했어요. (Incorrect combination)",
+              "수업을 듣는 후에 복습을 했어요. (Incorrect modifier format)",
+              "수업을 듣는 다음에 복습을 했어요. (Incorrect modifier format)"
+            ],
+            "a": 0,
+            "eK": "동사 '듣다'는 'ㄷ' 불규칙 동사입니다. 모음으로 시작하는 '-(으)ㄴ 다음에'와 만나면 'ㄷ'이 'ㄹ'로 바뀌어 '들은 다음에'가 됩니다.",
+            "eE": "Option 1 correctly applies the ㄷ-irregular rule. '듣다' changes 'ㄷ' to 'ㄹ' before adding '-은 다음에', resulting in '들은 다음에'."
+          }
+        ]
+      }
+    },
+    "Week 2": {
+      "Lesson 1": {
+        "flashcards": [
+          { "term": "고향에 돌아가다", "meaning": "To return to one's hometown", "type": "Vocabulary", "desc": "Common action discussed when expressing plans." },
+          { "term": "면접 전에", "meaning": "Before the interview", "type": "Vocabulary", "desc": "Noun + 전에 practical usage." },
+          { "term": "퇴근 전에", "meaning": "Before getting off work", "type": "Vocabulary", "desc": "Noun + 전에 practical usage." }
+        ],
+        "quiz": [
+          {
+            "qK": "다음 ( )에 들어갈 알맞은 말을 골라 문장을 완성하세요.\n* 이 가방을 (     ) 5년 (     ).",
+            "qE": "Select the correct phrases for the blanks.\n* It (     ) 5 years (     ) I bought this bag.",
+            "o": [
+              "산 지 / 됐어요 (Since buying / has been)",
+              "살 때 / 돼요 (When buying / becomes)",
+              "사기 전에 / 돼요 (Before buying / becomes)",
+              "샀을 때 / 됐어요 (When bought / was)"
+            ],
+            "a": 0,
+            "eK": "시간의 경과를 나타내므로 '사다'에 '-ㄴ 지'를 붙여 '산 지', 그리고 '됐어요'가 맞습니다.",
+            "eE": "Expressing duration requires 'Verb + -(으)ㄴ 지 + Time + 되다'. '사다' takes '-ㄴ 지', making Option 1 correct."
+          },
+          {
+            "qK": "다음 대화를 완성하세요.\n가: 한국 드라마를 처음 본 게 언제예요?\n나: 한국 드라마를 (     ).",
+            "qE": "Complete the dialogue.\nA: When was the first time you watched a Korean drama?\nB: I watched a Korean drama (     ).",
+            "o": [
+              "보고 싶어요 (I want to watch)",
+              "보고 있어요 (I am watching)",
+              "본 지 10년쯤 됐어요 (It's been about 10 years since I watched)",
+              "본 적이 있어요 (I have watched it before)"
+            ],
+            "a": 2,
+            "eK": "'언제 처음 보았느냐'는 질문에 시간의 경과를 나타내는 '-(으)ㄴ 지 [시간] 되다'로 대답하는 것이 자연스럽습니다.",
+            "eE": "When asked 'when' you first did something, answering 'It has been [time] since I did it' using '-(으)ㄴ 지' is the most natural response."
+          },
+          {
+            "qK": "다음 대화를 완성하세요.\n가: 한국에 (     ) 뭐 했어요?\n나: 고향에서 학교에 다녔어요.",
+            "qE": "Complete the dialogue.\nA: What did you do (     ) to Korea?\nB: I attended school in my hometown.",
+            "o": [
+              "올 때 (When coming)",
+              "와서 (Came and then)",
+              "온 지 (Since coming)",
+              "오기 전에 (Before coming)"
+            ],
+            "a": 3,
+            "eK": "대답이 '고향에서 학교에 다녔다'이므로, 한국에 오기 전의 행동을 묻는 '오기 전에'가 알맞습니다.",
+            "eE": "Because the response is about attending school in their hometown, the question must be asking what they did 'BEFORE coming' (오기 전에) to Korea."
+          },
+          {
+            "qK": "다음 대화를 완성하세요.\n가: 시험 보기 전에 뭐 했어요?\n나: (     ).",
+            "qE": "Complete the dialogue.\nA: What did you do before taking the exam?\nB: (     ).",
+            "o": [
+              "점심을 먹었어요 (I ate lunch)",
+              "시험을 끝냈어요 (I finished the exam)",
+              "시험을 못 쳤어요 (I couldn't take the exam)",
+              "시험 본 지 1시간 됐어요 (It's been 1 hr since exam)"
+            ],
+            "a": 0,
+            "eK": "시험 보기 '전'에 한 행동을 묻고 있으므로, 과거에 완료된 다른 행동인 '점심을 먹었어요'가 올바른 대답입니다.",
+            "eE": "The question asks what was done BEFORE the exam. Option 1 (eating lunch) is the only logical past action completed prior to the exam."
+          }
+        ]
+      },
+      "Lesson 2": {
+        "flashcards": [
+          { "term": "학교를 졸업하다", "meaning": "To graduate from school", "type": "Vocabulary", "desc": "Sequential milestone." },
+          { "term": "수저를 들다", "meaning": "To pick up spoon and chopsticks", "type": "Vocabulary", "desc": "Dining etiquette phrase." },
+          { "term": "ㄹ-Irregular + -(으)ㄴ 후에", "meaning": "ㄹ drops before ㄴ", "type": "Irregular Rule", "desc": "만들다 → 만든 후에 / 들다 → 든 후에" }
+        ],
+        "quiz": [
+          {
+            "qK": "다음 문장을 순서대로 바르게 만든 문장을 고르세요.\n1. 미국에서 학교를 졸업하다 → 2. 한국에 오다",
+            "qE": "Choose the sentence that correctly reflects the chronological order.\n1. Graduate school in US → 2. Come to Korea",
+            "o": [
+              "한국에 오기 전에 미국에서 일했어요. (Violates sequence facts)",
+              "미국에서 학교를 졸업한 후에 한국에 왔어요. (Came to Korea after graduating)",
+              "한국 생활이 끝난 다음에 미국에서 학교를 졸업할 거예요. (Reverses timeline)",
+              "미국에서 학교를 졸업하기 전에 한국에 왔어요. (Reverses timeline)"
+            ],
+            "a": 1,
+            "eK": "1번 행동(졸업) 후에 2번 행동(한국에 옴)을 했으므로 '졸업한 후에 한국에 왔어요'가 맞습니다.",
+            "eE": "Event 1 happened before Event 2. Option 2 correctly uses '-(으)ㄴ 후에' to state 'After graduating school in the US, I came to Korea.'"
+          },
+          {
+            "qK": "한국에서는 어른이 수저를 ( 들다 ) 식사를 시작해야 돼요. 알맞은 형태로 바꾸세요.",
+            "qE": "Change the verb in parentheses to the correct form: In Korea, you must start eating after an adult (picks up) their cutlery.",
+            "o": [
+              "수저를 들기 전에 (Before lifting)",
+              "수저를 든 후에 (After lifting)",
+              "수저를 들은 지 (Incorrect irregular form)",
+              "수저를 드는 동안 (While lifting)"
+            ],
+            "a": 1,
+            "eK": "어른이 수저를 든 '다음에' 식사해야 합니다. '들다'는 ㄹ 불규칙 동사로, ㄴ 앞에서 ㄹ이 탈락하여 '든 후에'가 됩니다.",
+            "eE": "Etiquette dictates eating AFTER the adult picks up cutlery. '들다' is an ㄹ-irregular verb; the 'ㄹ' drops before 'ㄴ', creating '든 후에'."
+          }
+        ]
+      }
+    },
+    "Week 5": {
+      "Lesson 2": {
+        "flashcards": [
+          { "term": "-(으)면서", "meaning": "Simultaneous Actions (While doing)", "type": "Grammar", "desc": "Both actions MUST be performed by the SAME subject." },
+          { "term": "-(으)면서 (Adjective Rule)", "meaning": "Adjectives cannot be used directly", "type": "Grammar", "desc": "Incorrect: 슬프면서 울어요. Correct: 슬퍼하면서 울어요." },
+          { "term": "-았/었/했으면 좋겠다", "meaning": "Expressing Hopes/Wishes", "type": "Grammar", "desc": "Attaches to the past tense stem even for future desires. (e.g., 쉬웠으면 좋겠다)." }
+        ],
+        "quiz": [
+          {
+            "qK": "다음 중 올바른 문장을 고르세요. (걷다 + -(으)면서)",
+            "qE": "Choose the correct sentence (combining 'to walk' + 'while').",
+            "o": [
+              "친구는 걷으면서 전화를 했어요. (Incorrect conjugation)",
+              "친구는 걸으면서 전화를 했어요. (Correct ㄷ-irregular)",
+              "친구는 건면서 전화를 했어요. (Incorrect conjugation)",
+              "친구는 걸면서 전화를 했어요. (Incorrect conjugation)"
+            ],
+            "a": 1,
+            "eK": "동사 '걷다'는 'ㄷ' 불규칙 동사입니다. 모음으로 시작하는 '-(으)면서'와 결합하면 'ㄷ'이 'ㄹ'로 바뀌어 '걸으면서'가 됩니다.",
+            "eE": "'걷다' (to walk) is a ㄷ-irregular verb. When attaching a vowel suffix like '-(으)면서', 'ㄷ' changes to 'ㄹ', making '걸으면서'."
+          },
+          {
+            "qK": "다음 중 틀린 문장을 고르세요.",
+            "qE": "Choose the INCORRECT sentence.",
+            "o": [
+              "동생은 춤을 추면서 노래를 불러요. (Valid simultaneous action)",
+              "아버지는 신문을 읽으면서 커피를 마셔요. (Valid simultaneous action)",
+              "저는 음악을 들으면서 걸었어요. (Valid simultaneous action)",
+              "친구는 슬프면서 울어요. (Invalid use of adjective)"
+            ],
+            "a": 3,
+            "eK": "'-면서'는 동사에만 직접 붙을 수 있습니다. '슬프다'는 형용사이므로 '슬퍼하면서'로 바꾸어야 합니다.",
+            "eE": "Option 4 is wrong because '-(으)면서' cannot attach directly to an adjective like '슬프다'. It must be transformed into an action verb ('슬퍼하면서')."
+          },
+          {
+            "qK": "다음 문장의 ( )에 들어갈 올바른 단어를 고르세요.\n* 한국에 온 지 한 달 됐어요. 빨리 한국 친구가 (     ) 좋겠어요.",
+            "qE": "Choose the correct word for the blank.\n* I've been in Korea for a month. I hope I (     ) Korean friends quickly.",
+            "o": [
+              "생겨서 (Because they appear)",
+              "생기지만 (They appear, but)",
+              "생기면서 (While appearing)",
+              "생겼으면 (If they appeared / I hope)"
+            ],
+            "a": 3,
+            "eK": "바람이나 소망을 나타내는 문법은 '-았/었/했으면 좋겠다'입니다. 따라서 '생겼으면'이 맞습니다.",
+            "eE": "To express a hope or wish, you must use the past tense stem + '-으면 좋겠다'. '생기다' becomes '생겼으면 좋겠어요'."
+          },
+          {
+            "qK": "다음 문장 중 올바른 것을 고르세요.",
+            "qE": "Choose the correct sentence among the following.",
+            "o": [
+              "내일이 일요일이었으면 좋겠어요. (Correct noun past tense + wish)",
+              "시험이 쉽었으면 좋겠어요. (Incorrect ㅂ-irregular: 쉬웠으면)",
+              "내일은 날씨가 좋다면 좋겠어요. (Incorrect grammar ending)",
+              "친구가 빨리 낫았으면 좋겠어요. (Incorrect ㅅ-irregular: 나았으면)"
+            ],
+            "a": 0,
+            "eK": "명사 '일요일' 뒤에 과거형 '-이었'과 '-으면 좋겠다'가 결합된 1번이 맞습니다. 2번은 '쉬웠으면', 4번은 '나았으면'이 맞습니다.",
+            "eE": "Option 1 correctly attaches '-이었으면 좋겠다' to a noun. Option 2 fails the ㅂ-irregular (쉬웠으면), and Option 4 fails the ㅅ-irregular (나았으면)."
+          }
+        ]
+      }
+    },
+    "Week 7": {
+      "Lesson 1 & 2": {
+        "flashcards": [
+          { "term": "한식 / 양식 / 중식 / 일식", "meaning": "Korean / Western / Chinese / Japanese food", "type": "Vocabulary", "desc": "Food categories." },
+          { "term": "-(으)ㄴ/는데", "meaning": "Background context / Contrast", "type": "Grammar", "desc": "Verbs: -는데 | Adjectives: -(으)ㄴ데 | Nouns: -인데" },
+          { "term": "-(으)ㄹ래요", "meaning": "Intention / Asking preference", "type": "Grammar", "desc": "States personal intention ('I will') or asks preference ('Would you like to?')." }
+        ],
+        "quiz": [
+          {
+            "qK": "다음 어휘를 보기와 같이 바르게 바꾼 것을 고르세요.\n(보기) 비가 오다 → 비가 오는데",
+            "qE": "Choose the correctly converted vocabulary like the example.\n(Example) To rain → It is raining, so/but...",
+            "o": [
+              "저녁을 먹다 → 저녁을 먹은데 (Incorrect verb format: 먹는데)",
+              "돈이 많다 → 돈이 많는데 (Incorrect adjective format: 많은데)",
+              "집에 가다 → 집에 가는데 (Correct verb conversion)",
+              "머리가 길다 → 머리가 길은데 (Incorrect ㄹ-irregular: 긴데)"
+            ],
+            "a": 2,
+            "eK": "동사 '가다'는 받침 유무에 상관없이 '-는데'를 붙이므로 '가는데'가 맞습니다. 형용사 '많다'는 '많은데', '길다'는 '긴데'가 됩니다.",
+            "eE": "Action verbs always take '-는데', making Option 3 ('가는데') correct. Adjectives take '-(으)ㄴ데', so '많다' should be '많은데' and '길다' should be '긴데'."
+          },
+          {
+            "qK": "다음 '-(으)ㄴ/는데' 중 성격이 다른 것을 고르세요.",
+            "qE": "Choose the sentence where '-(으)ㄴ/는데' has a different functional meaning from the others.",
+            "o": [
+              "냉장고에 주스가 있는데 마셔도 돼요? (Background context)",
+              "미키 씨는 영어는 잘하는데 한국어는 잘 못해요. (Contrast / A but B)",
+              "어제 마트에 갔는데 친구를 만났어요. (Background context)",
+              "바람이 많이 부는데 창문 좀 닫아 주세요. (Background context)"
+            ],
+            "a": 1,
+            "eK": "1, 3, 4번은 뒤 문장의 사실에 대해 앞 문장이 '배경'이 되는 상황입니다. 2번은 앞 문장과 뒤 문장이 '대조'되는 사실을 나타냅니다.",
+            "eE": "Options 1, 3, and 4 use '-는데' to set up a background situation before a request or event. Option 2 uses it to contrast two opposing facts (good at English, but bad at Korean)."
+          },
+          {
+            "qK": "다음 ( )에 공통으로 들어갈 단어는 뭐예요? 올바른 것을 고르세요.\n가: 이 잡지 (     )?\n나: 저는 이 책을 (     ).",
+            "qE": "Choose the correct word for both blanks.\nA: Would you like to read this magazine?\nB: I'd like to read this book.",
+            "o": [
+              "읽었습니다 (Read - past tense)",
+              "읽습니다 (Reads - present formal)",
+              "읽을래요 (Would like to read / Will read)",
+              "읽을까요 (Shall we read?)"
+            ],
+            "a": 2,
+            "eK": "상대방의 의향을 묻고(읽을래요?), 자신의 의지를 대답할 때(읽을래요) 모두 '-(으)ㄹ래요'를 사용합니다.",
+            "eE": "Asking for preference and stating a personal intention both utilize the grammar pattern -(으)ㄹ래요."
+          }
+        ]
+      }
+    },
+    "Week 8": {
+      "Midterm Review": {
+        "flashcards": [
+          { "term": "1st Person Emotion", "meaning": "Subject + Noun-이/가 + Adjective(-다)", "type": "Syntax Rule", "desc": "e.g., 나는 강아지가 무서워요. (I am scared of dogs.)" },
+          { "term": "3rd Person Emotion", "meaning": "Subject + Noun-을/를 + Verb(-아/어/해하다)", "type": "Syntax Rule", "desc": "e.g., 동생은 강아지를 무서워해요. (My sibling is scared of dogs.)" },
+          { "term": "-기 전에 (Rule)", "meaning": "Always attaches to the BASE verb stem.", "type": "Syntax Rule", "desc": "No past tense markers (았/었) allowed. e.g., 보기 전에 (NOT 봤기 전에)." },
+          { "term": "-(으)ㄴ 후에 (Rule)", "meaning": "Always attaches to the PAST modifier form.", "type": "Syntax Rule", "desc": "ㄹ-stems drop ㄹ (만든 후에). ㄷ-irregular changes to ㄹ (들은 후에)." }
+        ],
+        "quiz": [
+          {
+            "qK": "다음 중 올바른 문장을 고르세요.",
+            "qE": "Choose the correct sentence among the following.",
+            "o": [
+              "미안해요. 오늘 만날 줄 없어요. (Incorrect ability expression)",
+              "미미 씨는 넘어져서 아프고 있어요. (Incorrect emotion marker)",
+              "동생이 밥을 먹으면서 나는 음악을 들었어요. (Subjects do not match)",
+              "배고픈데 밥 먹으러 갈래요? (I'm hungry, shall we go eat?)"
+            ],
+            "a": 3,
+            "eK": "4번이 정답입니다. '배고픈데'는 상황 배경을, '갈래요?'는 제안을 나타냅니다. 3번은 주어가 다르므로 '-(으)면서'를 쓸 수 없습니다.",
+            "eE": "Option 4 correctly uses -(으)ㄴ데 for background context, and -(으)ㄹ래요? for suggestion. Option 3 is wrong because -(으)면서 requires both actions to be done by the same subject."
+          }
+        ]
+      }
+    }
+  }
+}
+```eof
